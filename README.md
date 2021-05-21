@@ -186,22 +186,70 @@ https://www.geeksforgeeks.org/print-leaf-nodes-left-right-binary-tree/
 
 39.)How do you count a number of leaf nodes in a given binary tree?
 
+https://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/
 
 
 40.)How do you perform a binary search in a given array?
 
-
+https://www.geeksforgeeks.org/binary-search/
 
 
 41.)How is a bubble sort algorithm implemented?
+
+https://www.studytonight.com/data-structures/bubble-sort
+
+
+
 42.)How is an iterative quicksort algorithm implemented?
+
+
+https://www.geeksforgeeks.org/iterative-quick-sort/
+
+
+
+
 43.)How do you implement an insertion sort algorithm?
+
+https://www.geeksforgeeks.org/insertion-sort/
+
+
+
 44.)How is a merge sort algorithm implemented?
+
+https://www.geeksforgeeks.org/merge-sort/
+
+
+
 45.)How do you implement a bucket sort algorithm?
+
+https://www.geeksforgeeks.org/bucket-sort-2/
+
+
+
 46.)How do you implement a counting sort algorithm?
+
+https://www.geeksforgeeks.org/counting-sort/
+
+
+
 47.)How is a radix sort algorithm implemented?
+
+https://www.geeksforgeeks.org/radix-sort/
+
+
+
 48.)How do you swap two numbers without using the third variable?
+
+https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/
+
+
+
 49.)How do you check if two rectangles overlap with each other?
+
+https://www.geeksforgeeks.org/find-two-rectangles-overlap/
+
+
+
 50.)How do you design a vending machine?
 
 

@@ -86,15 +86,57 @@ https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-othe
 
 
 21.)How do you print the first non-repeated character from a string?
+
+https://www.geeksforgeeks.org/given-a-string-find-its-first-non-repeating-character/
+
 22.)How can a given string be reversed using recursion?
+
+https://www.geeksforgeeks.org/reverse-a-string-using-recursion/
+
+
 23.)How do you check if a string contains only digits?
+
+https://www.geeksforgeeks.org/how-to-check-if-string-contains-only-digits-in-java/
+
 24.)How are duplicate characters found in a string?
+
+https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/
+
+
 25.)How do you count a number of vowels and consonants in a given string?
+
+https://www.geeksforgeeks.org/program-count-vowels-consonant-digits-special-characters-string/
+
+
+
 26.)How do you count the occurrence of a given character in a string?
+
+https://www.geeksforgeeks.org/program-count-occurrence-given-character-string/
+
+
+
 27.)How do you find all permutations of a string?
+
+https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/
+
+
+
 28.)How do you reverse words in a given sentence without using any library method?
+
+https://www.geeksforgeeks.org/reverse-words-in-a-given-string/
+
+
+
 29.)How do you check if two strings are a rotation of each other?
+
+https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/
+
+
+
+
 30.)How do you check if a given string is a palindrome?
+
+https://www.javatpoint.com/program-to-determine-whether-a-given-string-is-palindrome#:~:text=A%20string%20is%20said%20to,character%20from%20back%20and%20forth.
 
 
 31.)How is a binary search tree implemented?

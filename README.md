@@ -140,15 +140,57 @@ https://www.javatpoint.com/program-to-determine-whether-a-given-string-is-palind
 
 
 31.)How is a binary search tree implemented?
+
+https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
+
+
 32.)How do you perform preorder traversal in a given binary tree?
+
+https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
+
+
 33.)How do you traverse a given binary tree in preorder without recursion?
+
+https://www.geeksforgeeks.org/iterative-preorder-traversal/
+
+
 34.)How do you perform an inorder traversal in a given binary tree?
+
+https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
+
+
+
 35.)How do you print all nodes of a given binary tree using inorder traversal without recursion?
+
+https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion/
+
+
+
 36.)How do you implement a postorder traversal algorithm?
+
+https://www.geeksforgeeks.org/iterative-postorder-traversal-using-stack/
+
+
+
 37.)How do you traverse a binary tree in postorder traversal without recursion?
+
+https://www.geeksforgeeks.org/iterative-postorder-traversal-using-stack/
+
+
+
 38.)How are all leaves of a binary search tree printed?
+
+https://www.geeksforgeeks.org/print-leaf-nodes-left-right-binary-tree/
+
+
+
 39.)How do you count a number of leaf nodes in a given binary tree?
+
+
+
 40.)How do you perform a binary search in a given array?
+
+
 
 
 41.)How is a bubble sort algorithm implemented?
